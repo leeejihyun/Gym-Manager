@@ -4,11 +4,12 @@ using namespace std;
 class Member
 {
 private:
-	int id{};
-	string name{};
-	int trainerID{};
-	string rsvCondition{ "Not yet" };
+	int id;
+	string name;
+	int trainerID;
+	string rsvCondition;
 public:
+	Member() : id{}, name{}, trainerID{}, rsvCondition{ "Not yet" }{}
 	void setID(int _id);
 	int getID() { return id; }
 	void setName(string _name);
