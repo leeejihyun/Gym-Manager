@@ -4,9 +4,10 @@ using namespace std;
 class Trainer
 {
 private:
-	int id{};
-	string name{};
+	int id;
+	string name;
 public:
+	Trainer():id{}, name{}{}
 	void setID(int _id);
 	int getID() { return id; }
 	void setName(string _name);
