@@ -9,8 +9,5 @@ _자세한 내용은 https://leeejihyun.tistory.com/5 을 참고하세요._
 
 <center><img src="main.gif" width="700" height="741"></center>
 
-## 사용 예제  
-https://tv.kakao.com/v/415316939  
-
 ## 정보  
 이지현 leeejihyun@naver.com  
